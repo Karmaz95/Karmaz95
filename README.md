@@ -19,6 +19,14 @@ In my free time, I also run a [blog](https://karol-mazurek.medium.com/) about - 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://karol-mazurek.medium.com/)
 ***
+### 🎖️ Certs & CTFs & Courses
+I have participated in multiple CTFs, completed various courses, and obtained certifications through various platforms. Below are links that demonstrate some of these small accomplishments:
+* [Certs](https://www.credential.net/profile/karmaz/wallet#gs.3bpxob) - OSCE³, eWPTxv2, OSCP, OST2-Arch1001
+* [Pentesterlab](https://pentesterlab.com/profile/e421693bba23833f2255e89ee9) - various web hacking courses & CTFs.
+* [RPISEC/MBE](https://github.com/Karmaz95/MBE) - Modern Binary Exploitation - CSCI 4968
+* [HTB](https://app.hackthebox.com/profile/187934) - CTFs & Pro Labs
+* [CS50](https://certificates.cs50.io/21e12b5c-a762-4fd8-bc5d-d824c9b6680e.pdf) - Harvard University - Introduction to Computer Science
+***
 ### 📫 Social Media :
 You can reach me here:
 
