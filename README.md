@@ -40,3 +40,5 @@ If you enjoy my work and want to help me grow, you can sponsor me using any of t
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Karmaz95)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Karol_Mazurek)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/karmaz95)
+
+❗By subscribing to my [Patreon](https://www.patreon.com/Karol_Mazurek), you will receive access to all of my published articles.
