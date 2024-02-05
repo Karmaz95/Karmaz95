@@ -1,5 +1,5 @@
 ### :man_technologist: &nbsp;About Me
-I am a passionate `Offensive Security Engineer` from [afine](https://afine.com/), committed to finding 👾 **bugs** and developing 🤖  **software** that enhances our work in security. My main areas of interest are 🍎 **macOS internals** and 🕸️ **web application security**. Although I have experience in 💠 **Active Directory** and creating 🦠 **malware** to bypass 🛡️ **EDRs**, I am no longer pursuing knowledge in these areas.
+I am a passionate `Offensive Security Engineer` from [afine](https://afine.com/), committed to finding 👾 **bugs** and developing 🤖  **software** that enhances our work in security. My main areas of interest are 🍎 **macOS internals** and 🕸️ **web application security**. I also have experience in 💠 **Active Directory** and creating 🦠 **malware** to bypass 🛡️ **EDRs**.
 
 ![](https://komarev.com/ghpvc/?username=Karmaz95&color=red)
 ***
