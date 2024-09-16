@@ -18,7 +18,7 @@ I have caught many of them so far, and some have even received a public CVE. I a
 In my free time, I also run a [blog](https://karol-mazurek.medium.com/). Recently, I decided to post Proof of Concepts as short recordings on my [YouTube channel](https://www.youtube.com/channel/UCPSvQXGgDEHBLi7mV665SiA). You can subscribe to me using the banners below to receive notifications of the latest blogs or videos.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://karol-mazurek.medium.com/)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPSvQXGgDEHBLi7mV665SiA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPSvQXGgDEHBLi7mV665SiA?style=social&link=https%3A%2F%2Fwww.youtube.com%2F%40karol-mazurek)
 
 ***
 ### 🎖️ Certs & CTFs & Courses
