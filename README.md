@@ -1,12 +1,15 @@
 ### :man_technologist: &nbsp;About Me
-I am a passionate `Offensive Security Engineer` from [afine](https://afine.com/), committed to finding 👾 **bugs** and developing 🤖  **software** that enhances our work in security. My main areas of interest are 🍎 **macOS internals** and 🕸️ **web application security**. I also have experience in 💠 **Active Directory** and creating 🦠 **malware** to bypass 🛡️ **EDRs**.
+`Head of Research` at [afine](https://afine.com/), specializing in 🍎 **macOS security**. Passionate about 🛠️ **Vulnerability Research**, 🎯 **Exploit Development**, and 🔍 **Reverse Engineering**. My work focuses on **macOS internals** and advancing research in offensive security.  
+
+While research is my primary focus, I also work as an **Offensive Security Engineer**, identifying 👾 **security flaws** and developing 🤖 **tools** to enhance security operations. This includes 🖥️ **Desktop Application Security**, 🕸️ **Web Application Security**, 💠 **Active Directory**, and creating 🦠 **malware** to bypass 🛡️ **EDRs**.  
 
 ![](https://komarev.com/ghpvc/?username=Karmaz95&color=red)
 ***
 ### 🔭 Projects I am proud of
-I created some tools helpful for Offensive Security work, but there are two that I am the most proud of, they are:
-* [Crimson](https://github.com/Karmaz95/crimson) - this was my first big thing. Currently, I am not focusing on this tool. However, it is still powerful. My friends and I are using it to this day. This is also a great place to start your journey with Application Security.
+I created some tools helpful for Offensive Security work, but there are two that I am the proudest of, they are:
 * [Snake&Apple](https://github.com/Karmaz95/Snake_Apple) - The code repository for the [Snake&Apple article series](https://medium.com/@karol-mazurek/list/snakeapple-50baea541374) documents my macOS security research.
+* [Crimson](https://github.com/Karmaz95/crimson) - this was my first big thing. Currently, I am not focusing on this tool. However, it is still powerful. My friends and I are using it to this day. This is also a great place to start your journey with Application Security.
+
 ***
 ### 🐛 CVE I am proud of
 As my daily work and some part of my free time research, I am looking for bugs 🐛. 
