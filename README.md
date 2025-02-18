@@ -26,7 +26,7 @@ In my free time, I also run a [blog](https://karol-mazurek.medium.com/). Recentl
 ***
 ### 🎖️ Certs & CTFs & Courses
 I have participated in multiple CTFs, completed various courses, and obtained certifications through various platforms. Below are links that demonstrate some of these small accomplishments:
-* [Certs](https://www.credential.net/profile/karmaz/wallet#gs.3bpxob) - OSCE³, eWPTxv2, OSCP, OST2-Arch1001
+* [Certs](https://www.credential.net/profile/karmaz/wallet#gs.3bpxob) - OSCE³, eWPTxv2, OSCP, various OpenSecurityTraining2 certs
 * [Pentesterlab](https://pentesterlab.com/profile/e421693bba23833f2255e89ee9) - various web hacking courses & CTFs.
 * [RPISEC/MBE](https://github.com/Karmaz95/MBE) - Modern Binary Exploitation - CSCI 4968
 * [HTB](https://app.hackthebox.com/profile/187934) - CTFs & Pro Labs
