@@ -32,7 +32,7 @@ I have participated in multiple CTFs, completed various courses, and obtained ce
 * [HTB](https://app.hackthebox.com/profile/187934) - CTFs & Pro Labs
 * [CS50](https://certificates.cs50.io/21e12b5c-a762-4fd8-bc5d-d824c9b6680e.pdf) - Harvard University - Introduction to Computer Science
 ***
-### 📫 Social Media
+### 📫 Social Media - Contact
 Feel free to reach me on any of the platforms below. I also share new articles there, so you can stay up-to-date by following me.
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/karmaz95)
