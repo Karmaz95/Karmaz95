@@ -1,7 +1,5 @@
 ### :man_technologist: &nbsp;About Me
-`Head of Research` at [afine](https://afine.com/), specializing in 🍎 **macOS security**. Passionate about 🛠️ **Vulnerability Research**, 🎯 **Exploit Development**, and 🔍 **Reverse Engineering**. My work focuses on **macOS internals** and advancing research in offensive security.  
-
-While research is my primary focus, I also work as an **Offensive Security Engineer**, identifying 👾 **security flaws** and developing 🤖 **tools** to enhance security operations. This includes 🖥️ **Desktop Application Security**, 🕸️ **Web Application Security**, 💠 **Active Directory**, and creating 🦠 **malware** to bypass 🛡️ **EDRs**.  
+I am the Head of Research at [AFINE](https://afine.com/), specializing in macOS security. I am passionate about vulnerability research, exploit development, and reverse engineering. My work focuses on macOS internals and advancing research in offensive security. While research is my primary focus, I also work as an Offensive Security Engineer, where I identify security flaws and develop tools to enhance security operations. This includes areas such as desktop application security, web application security, and Active Directory, as well as creating malware to bypass endpoint detection and response (EDR) systems.
 
 ![](https://komarev.com/ghpvc/?username=Karmaz95&color=red)
 ***
@@ -12,7 +10,7 @@ I created some tools helpful for Offensive Security work, but there are two that
 
 ***
 ### 🐛 CVE
-As part of my daily work and free-time research, I am looking for bugs 🐛. 
+As part of my daily work and free-time research, I am looking for bugs. 
 I have caught many of them so far, and [some have even received a public CVE](https://github.com/Karmaz95/Credits). I am particularly proud of [CVE-2023-35359: Windows - Kernel Elevation of Privilege Vulnerability](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-35359).
 
 ***
