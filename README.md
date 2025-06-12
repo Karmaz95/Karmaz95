@@ -1,5 +1,7 @@
 ### :man_technologist: &nbsp;About Me
-I am the Head of Research at [AFINE](https://afine.com/), specializing in macOS security. I am passionate about vulnerability research, exploit development, and reverse engineering. My work focuses on macOS internals and advancing research in offensive security. While research is my primary focus, I also work as an Offensive Security Engineer, where I identify security flaws and develop tools to enhance security operations. This includes areas such as desktop application security, web application security, and Active Directory, as well as creating malware to bypass endpoint detection and response (EDR) systems.
+I am the Head of Research at [AFINE](https://afine.com/), specializing in macOS security. I am passionate about vulnerability research, exploit development, and reverse engineering. My work focuses on macOS internals and advancing research in offensive security. 
+
+My primary focus is research, but I also work as an Offensive Security Engineer, identifying security flaws and developing tools to enhance security operations in desktop and web application security, Active Directory, and creating malware to bypass EDR systems.
 
 ![](https://komarev.com/ghpvc/?username=Karmaz95&color=red)
 ***
