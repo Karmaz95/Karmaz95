@@ -26,7 +26,7 @@ In 2024, I wrote only on [Medium](https://karol-mazurek.medium.com/). Now I am w
 ***
 ### 🎖️ Certs & CTFs & Courses
 I have participated in multiple Capture the Flag (CTF) events, completed various courses, and obtained certifications through multiple platforms. Below are links that demonstrate some of these small accomplishments:
-* [Certs](https://www.credential.net/profile/karmaz/wallet#gs.3bpxob) - OSCE³, eWPTxv2, OSCP, various OpenSecurityTraining2 certs
+* [Certs](https://www.credential.net/profile/karmaz/wallet#gs.3bpxob) - [OSCE³](https://www.offsec.com/blog/osce3-certification/), [eWPTxv2](https://security.ine.com/certifications/ewptx-certification/), [OSCP](https://www.offsec.com/courses/pen-200/), various [OpenSecurityTraining2](https://p.ost2.fyi/) certs
 * [Pentesterlab](https://pentesterlab.com/profile/e421693bba23833f2255e89ee9) - various web hacking courses & CTFs.
 * [RPISEC/MBE](https://github.com/Karmaz95/MBE) - Modern Binary Exploitation - CSCI 4968
 * [HTB](https://app.hackthebox.com/profile/187934) - CTFs & Pro Labs
