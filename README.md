@@ -42,10 +42,7 @@ Feel free to reach me on any of the platforms below. I also share new articles t
 
 ***
 ### 💰 Funding
-If you enjoy my work and want to help me grow, you can sponsor me using any of the options below:
+If you want to dive deeper into Apple vulnerability research — or want to support my work — consider becoming an [Elite Patreon](https://www.patreon.com/Karol_Mazurek/membership) to gain access to [exclusive content](https://www.patreon.com/collection/1529482).
 
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Karmaz95)
+
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Karol_Mazurek)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/karmaz95)
-
-❗By subscribing to my [Patreon](https://www.patreon.com/Karol_Mazurek), you will receive access to all of [my published articles](https://www.patreon.com/Karol_Mazurek/shop/all-medium-articles-121970?source=storefront), and I've also been working on some [exclusive content](https://www.patreon.com/collection/1529482?view=condensed) for my Elite Patrons - my "thank-you" to the folks who support me.
