@@ -21,7 +21,9 @@ In 2024, I wrote only on [Medium](https://karol-mazurek.medium.com/). Now I am w
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Karol_Mazurek)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://karol-mazurek.medium.com/)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPSvQXGgDEHBLi7mV665SiA?style=social&link=https%3A%2F%2Fwww.youtube.com%2F%40karol-mazurek)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@karol-mazurek)
+
+
 
 ***
 ### 🎖️ Certs & CTFs & Courses
