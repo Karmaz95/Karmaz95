@@ -3,7 +3,6 @@ I am the Head of Research at [AFINE](https://afine.com/), specializing in macOS 
 
 My primary focus is research, but I also work as an Offensive Security Engineer, identifying security flaws and developing tools to enhance security operations in desktop and web application security, Active Directory, and creating malware to bypass EDR.
 
-![](https://komarev.com/ghpvc/?username=Karmaz95&color=red)
 ***
 ### 🔭 Projects
 I created some tools helpful for Offensive Security work, but there are two that I am the proudest of:
