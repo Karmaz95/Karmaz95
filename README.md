@@ -13,7 +13,7 @@ Some bugs [received public recognition](https://github.com/Karmaz95/Credits).
 
 ***
 ### 📖 Blog & YT
-I wrote on [Medium](https://karol-mazurek.medium.com/). Now I am writing on [Patreon](https://www.patreon.com/Karol_Mazurek) and [AFINE blog](https://afine.com/blog/). Sometimes I post Proof of Concepts as short recordings on [YouTube](https://www.youtube.com/channel/UCPSvQXGgDEHBLi7mV665SiA). You can subscribe using the banners below to receive notifications of the latest blogs or videos.
+I wrote on [Medium](https://karol-mazurek.medium.com/). Now I am writing on [Patreon](https://www.patreon.com/Karol_Mazurek), [AFINE blog](https://afine.com/blog/) and for [Phrack](https://phrack.org/issues/72/9_md). Sometimes I post Proof of Concepts as short recordings on [YouTube](https://www.youtube.com/channel/UCPSvQXGgDEHBLi7mV665SiA). You can subscribe using the banners below to receive notifications of the latest blogs or videos.
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Karol_Mazurek)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://karol-mazurek.medium.com/)
